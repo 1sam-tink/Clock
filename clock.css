@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to bottom right, red, yellow);
+}
+
+#canvas {
+    margin-left: 300px;
+    margin-top: 50px;
+}
